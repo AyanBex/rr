@@ -1,0 +1,17 @@
+{
+  "name": "2and3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index2.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "git init && git add . && git commit -m \"first commit\" && git branch -M main && git remote add origin https://github.com/AyanBex/rr.git && git push -u origin main"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.0.1"
+  }
+}
